@@ -1,0 +1,11 @@
+._*
+.~lock.*
+.buildpath
+.DS_Store
+.idea
+local
+composer.lock
+vendor
+*.local.*
+!*.local.*.dist
+!.gitkeep
